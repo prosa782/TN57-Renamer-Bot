@@ -28,7 +28,7 @@ License -> https://github.com/bluv-pr/TN57-Renamer-Bot/blob/master/LICENSE
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/bluv-pr/TN57-Renamer-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prosa782/TN57-Renamer-Bot)
 
 ### Credits
 
